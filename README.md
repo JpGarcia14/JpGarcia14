@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm João 👋</h1>
 <h3 align="center">Software Engineer | Recent Graduate | Building things that matter</h3>
 
 <p align="center">
@@ -17,14 +17,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Recently graduated in **Software Engineering / Computer Science** from **[Your University]**
-- 💻 Passionate about **[e.g. backend development, web apps, data engineering]**
-- 🌱 Currently learning **[technology/framework]**
-- 🔭 Currently working on **[project name]**
-- 👯 Looking to collaborate on **[type of project, e.g. open-source, side projects]**
-- 💬 Ask me about **[your strongest topics, e.g. Python, React, APIs]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[something personal/fun]**
+- 🎓 Recently graduated in **Software Engineering / Computer Science** from **Universidade de Évora**
+- 💻 Passionate about **Full stack development, cloud, AI and Cybersecurity**
+- 📫 How to reach me: **jpedro.lgarcia@gmail.com**
 
 ---
 
