@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JpGarcia14&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JpGarcia14&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpGarcia14&layout=compact&hide_border=true" width="50%"/>
 </p>
 
 ---
